@@ -5,7 +5,7 @@
 <tr><td><b>День</b></td><td><b>Тема</b></td><td><b>Ссылки</b></td></tr>
 <tr><td rowspan="3"><a href="Day-1">1</a></td><td><a href="Day-1/Python_Intro.ipynb">Программирование для художников и художниц</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/Python_Intro_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td><a href="Day-1/YandexCloud.ipynb">Использование языковых моделей в облаке<br/>Облачные сервисы: распознавание/синтез речи</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/YandexCloud_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
-<tr><td>[Лабораторная работа: аудиоподкаст (диалог LLM)](Day-1/LLM_Theatre.ipynb)</td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/LLM_Theatre_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
+<tr><td><a href="Day-1/LLM_Theatre.ipynb">Лабораторная работа: аудиоподкаст (диалог LLM)</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/LLM_Theatre_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td rowspan="6"><a href="Day-2">2</a></td><td>Запуск моделей синтеза речи, LLM в облаке</td></tr>
 <tr><td>Когнитивный портрет</td><td></td></tr>
 <tr><td>Введение в комп.зрение и запуск моделей в облаке<br/>Визуализация латентных пространств</td><td></td></tr>
