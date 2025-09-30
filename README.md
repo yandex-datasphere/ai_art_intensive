@@ -7,12 +7,12 @@
 <tr><td><a href="Day-1/YandexCloud.ipynb">Использование языковых моделей в облаке<br/>Облачные сервисы: распознавание/синтез речи</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/YandexCloud_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td><a href="Day-1/LLM_Theatre.ipynb">Лабораторная работа: аудиоподкаст (диалог LLM)</a></td><td><a href="https://colab.redsearch.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-1/LLM_Theatre_Empty.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td rowspan="6"><a href="Day-2">2</a></td><td><a href="Day-2/CognitivePortraitWorkshop.ipynb">Когнитивный портрет</a></td><td><a href="https://colab.redsearch.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-2/CognitivePortraitWorkshop.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
-<tr><td><a href="Day-2/ModelsCloud.ipynb">Запуск моделей синтеза речи, LLM в облаке</a></td><td>В датасфере</td></tr>
-<tr><td><a href="Day-2/DiffusionNetworks.ipynb">Введение в диффузионные модели и запуск моделей в облаке<br/>Визуализация латентных пространств</a></td>В датасфере<td></td></tr>
+<tr><td><a href="Day-2/ModelsCloud.ipynb">Запуск моделей синтеза речи, LLM в облаке</a></td><td><a href="https://colab.redsearch.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-2/ModelsCloud.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
+<tr><td><a href="Day-2/DiffusionNetworks.ipynb">Введение в диффузионные модели и запуск моделей в облаке<br/>Визуализация латентных пространств</a></td><a href="https://colab.redsearch.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-2/DiffusionNetworks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a><td></td></tr>
 <tr><td><a href="Day-2/SDXL_DreamBooth_LoRA.ipynb">До-обучение моделей Stable Diffusion</a></td><td>В датасфере</td></tr>
 <tr><td>Лабораторная работа: нейровидео</td><td></td></tr>
 <tr><td>Домашнее задание: до-обучение Stable Diffusion</td><td></td></tr>
-<tr><td rowspan="5"><a href="Day-2">3</a></td><td>Мультимодальные модели (VLM)</td><td></td></tr>
+<tr><td rowspan="5"><a href="Day-3">3</a></td><td>Мультимодальные модели (VLM)</td><td></td></tr>
 <tr><td>Разработка telegram-ботов и простых веб-интерфейсов</td><td></td></tr>
 <tr><td>RAG-ассистенты</td><td></td></tr>
 <tr><td>До-обучение LLM-моделей в облаке</td><td></td></tr>
