@@ -12,8 +12,8 @@
 <tr><td><a href="Day-2/SDXL_DreamBooth_LoRA.ipynb">До-обучение моделей Stable Diffusion</a></td><td>В датасфере</td></tr>
 <tr><td>Лабораторная работа: нейровидео</td><td></td></tr>
 <tr><td>Домашнее задание: до-обучение Stable Diffusion</td><td></td></tr>
-<tr><td rowspan="5"><a href="Day-3">3</a></td><td>Мультимодальные модели (VLM)</td><td></td></tr>
-<tr><td>Разработка telegram-ботов и простых веб-интерфейсов</td><td></td></tr>
+<tr><td rowspan="5"><a href="Day-3">3</a></td><td><a href="Day-3/VLM_Bots.ipynb">Мультимодальные модели (VLM)</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-3/VLM_Bots.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
+<tr><td><a href="Day-3/VLM_Bots.ipynb">Разработка telegram-ботов и простых веб-интерфейсов</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-3/VLM_Bots.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td>RAG-ассистенты</td><td></td></tr>
 <tr><td>До-обучение LLM-моделей в облаке</td><td></td></tr>
 <tr><td>Лабораторная работа: вздорный бот</td><td></td></tr>
