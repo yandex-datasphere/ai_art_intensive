@@ -15,7 +15,7 @@
 <tr><td rowspan="5"><a href="Day-3">3</a></td><td><a href="Day-3/VLM_Bots.ipynb">Мультимодальные модели (VLM)</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-3/VLM_Bots.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td><a href="Day-3/VLM_Bots.ipynb">Разработка telegram-ботов и простых веб-интерфейсов</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-3/VLM_Bots.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
 <tr><td><a href="Day-3/RAG.ipynb">RAG-ассистенты</a></td><td><a href="https://colab.research.google.com/github/yandex-datasphere/ai_art_intensive/blob/main/Day-3/RAG.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a></td></tr>
-<tr><td>До-обучение LLM-моделей в облаке:<br/><a href="Day-3/ConvConv.ipynb">подготовка датасета из Telegram-переписки</a><br/><a href="Day-3/GPT_Finetune.ipynb">дообучение base-модели</a></td><td></td></tr>
+<tr><td>До-обучение LLM-моделей в облаке:<br/><a href="Day-3/ConvConv.ipynb">подготовка датасета из Telegram-переписки и до-обучение в облаке</a><br/><a href="Day-3/GPT_Finetune.ipynb">дообучение base-модели на GPU</a></td><td>В датасфере</td></tr>
 <tr><td>Лабораторная работа: вздорный бот</td><td></td></tr>
 </table>
 
